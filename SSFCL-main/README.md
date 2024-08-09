@@ -11,3 +11,6 @@ Supplementary description of both model and experiments in SSFCL
 - **Run the code**:
 - $ cd SSFCL-main\SSFCL-dgl\Model
 - $ python main.py
+-
+- **Note**:
+- SSFCL-main\SSFCL-dgl\Data\kg_final.txt.zip need unzip
