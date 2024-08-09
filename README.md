@@ -13,4 +13,4 @@ Supplementary description of both model and experiments in SSFCL
 - $ python main.py
 -
 - **Note**:
-- SSFCL-main\SSFCL-dgl\Data\kg_final.txt.zip need unzip
+- SSFCL-main\SSFCL-dgl\Data\amazon-book\kg_final.txt.zip need unzip
